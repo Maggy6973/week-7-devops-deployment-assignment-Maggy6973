@@ -1,3 +1,9 @@
+# My Frontend deployment link
+https://week7frontend.vercel.app/
+  ## I deployed it on vercel
+# My backend deployment link
+https://week7-twil.onrender.com
+  ## I deployed it on Render
 # User Authentication Application
 
 This project is a user authentication application built with Express, React, and MongoDB. It allows users to register, log in, and access a dashboard with a welcome message.
