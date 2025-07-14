@@ -1,9 +1,15 @@
 # My Frontend deployment link
 https://week7frontend.vercel.app/
-  ## I deployed it on vercel
+  ### I deployed it on vercel
+  <img width="1354" height="663" alt="image" src="https://github.com/user-attachments/assets/26de0bcb-db05-48c2-8351-1a87e8a6a441" />
+
 # My backend deployment link
 https://week7-twil.onrender.
+   ### I deployed it on Render
 <img width="1355" height="664" alt="image" src="https://github.com/user-attachments/assets/b20f42ca-f711-4bb9-a7cd-d4e5c94e6207" />
+<img width="1362" height="638" alt="image" src="https://github.com/user-attachments/assets/8dc7a40c-5706-4bfa-8e41-66c36e9f6f8c" />
+<img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/0089b7cf-b3c5-43c2-82d4-9fadbc3f963b" />
+
 
   ## I deployed it on Render
 # User Authentication Application
