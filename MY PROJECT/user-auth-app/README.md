@@ -8,7 +8,7 @@
 #### Password: Okware123
 
 # My Frontend deployment link
-https://week7frontend.vercel.app/
+https://week7frontend.vercel.app/login
   ### I deployed it on vercel
   <img width="1354" height="663" alt="image" src="https://github.com/user-attachments/assets/26de0bcb-db05-48c2-8351-1a87e8a6a441" />
 
