@@ -1,14 +1,6 @@
-# Logins
-### To login as employee
-#### Email: dedan@gmail.com
-#### Password: Dedan123
-
-### To login as admin
-#### Email: okware@gmail.com
-#### Password: Okware123
 
 # My Frontend deployment link
-https://week7frontend.vercel.app/login
+https://week7frontend.vercel.app/
   ### I deployed it on vercel
   <img width="1354" height="663" alt="image" src="https://github.com/user-attachments/assets/26de0bcb-db05-48c2-8351-1a87e8a6a441" />
 
