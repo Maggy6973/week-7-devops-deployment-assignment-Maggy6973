@@ -1,11 +1,11 @@
-#Logins
-###To login as employee
-#### Email dedan@gmail.com
-#### Password Dedan123
+# Logins
+### To login as employee
+#### Email: dedan@gmail.com
+#### Password: Dedan123
 
-###To login as admin
-#### Email okware@gmail.com
-#### Password Okware123
+### To login as admin
+#### Email: okware@gmail.com
+#### Password: Okware123
 
 # My Frontend deployment link
 https://week7frontend.vercel.app/
